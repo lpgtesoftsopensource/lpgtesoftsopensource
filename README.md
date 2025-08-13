@@ -5,13 +5,15 @@ I'm a Senior .NET Developer with 18 years of experience building and leading the
 💻 Core Skills & Expertise
 I have extensive experience across a wide range of technologies, from backend frameworks to database management.
 
-Backend
+## 🚀 Technologies & Tools
+
+### Backend
 C# / .NET, ASP.NET / ASP.NET MVC,Java / Spring Boot
 
-Frontend
+### Frontend
 HTML5 / CSS, JavaScript / TypeScript, jQuery
 
-Databases
+### Databases
 SQL Server,Oracle, MySQL
 
 🚀 Key Projects & Contributions
