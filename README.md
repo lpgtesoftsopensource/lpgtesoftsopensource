@@ -1,6 +1,6 @@
 #  Hi there, I'm Naili Anouar 👋
 
-I'm a Senior .NET Developer with 18 years of experience building and leading the development of robust, scalable, and high-performance enterprise applications. My expertise is in architecting full-stack solutions and mentoring teams to deliver clean, efficient, and maintainable code.
+I'm a Senior .NET Developer with ga ood experience in building and leading the development of robust, scalable, and high-performance enterprise applications. My expertise is in architecting full-stack solutions and mentoring teams to deliver clean, efficient, and maintainable code.
 
 💻 Core Skills & Expertise
 I have extensive experience across a wide range of technologies, from backend frameworks to database management.
